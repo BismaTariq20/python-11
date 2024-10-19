@@ -99,9 +99,6 @@ def main():
         faculty.display_students()
         faculty.display_teachers()
 
-    # Example of searching for a student (modify as needed)
-    # ... (same logic as before)
-
 
 # Run the main function
 if __name__ == "__main__":
